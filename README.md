@@ -7,16 +7,16 @@ Pending approval for use in speedrunning.
 
 ## Installation and Usage
 
-1. Download [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2) and install it to your 'Neon Boost.exe'.
+1. Download [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2) and install it to your `<gamedir>\Neon Boost.exe`.
 2. Run the game once. This will create the required folders. You should see a splash screen and a terminal if the modloader was installed correctly.
 3. Optionally, download [Melon Preferences Manager](https://github.com/Bluscream/MelonPreferencesManager/releases).
 3b. Download the latest version of [UniverseLib](https://github.com/sinai-dev/UniverseLib/releases).
 4. Download the `NeonBoostLogoMod.dll` from [the releases page](https://github.com/Hyonk-Tea/NeonBoostEnhancedTimer/releases)
-5. Extract all of the downloaded mods from their .zip files, and deposit them into your Neon Boost/Mods/ folder.
+5. Extract all of the downloaded mods from their `.zip` files, and deposit them into your Neon Boost/Mods/ folder.
 6. Launch the game!
 
 ## Config
-Either use MPM or edit your `MelonPreferences.cfg` in `<gamedir>\UserData`.
+Either use [Melon Preferences Manager](https://github.com/Bluscream/MelonPreferencesManager/releases) or edit your `MelonPreferences.cfg` in `<gamedir>\UserData`.
 Example config:
 ``` TOML
 [RunnerLogoMod]
