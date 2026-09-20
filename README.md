@@ -11,7 +11,7 @@ Pending approval for use in speedrunning.
 2. Run the game once. This will create the required folders. You should see a splash screen and a terminal if the modloader was installed correctly.
 3. Optionally, download [Melon Preferences Manager](https://github.com/Bluscream/MelonPreferencesManager/releases).
 3b. Download the latest version of [UniverseLib](https://github.com/sinai-dev/UniverseLib/releases).
-4. Download the ExtendedTimer.dll from [the releases page](https://github.com/Hyonk-Tea/NeonBoostEnhancedTimer/releases)
+4. Download the `NeonBoostLogoMod.dll` from [the releases page](https://github.com/Hyonk-Tea/NeonBoostEnhancedTimer/releases)
 5. Extract all of the downloaded mods from their .zip files, and deposit them into your Neon Boost/Mods/ folder.
 6. Launch the game!
 
