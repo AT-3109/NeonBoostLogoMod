@@ -147,17 +147,17 @@ namespace NeonBoostLogoMod
             };
             Vector2[] borderAnchors = new Vector2[4]
             {
-                new Vector2(0.5f, 0f), // Bottom
-                new Vector2(0.5f, 1f), // Top
-                new Vector2(0f, 0.5f), // Left
-                new Vector2(1f, 0.5f)  // Right
+                new Vector2(0.5f, 0f), // bottom
+                new Vector2(0.5f, 1f), // top
+                new Vector2(0f, 0.5f), // left
+                new Vector2(1f, 0.5f)  // right
             };
             Vector2[] borderSizes = new Vector2[4]
             {
-                new Vector2(borderMultiplier, thickness), // Bottom
-                new Vector2(borderMultiplier, thickness), // Top
-                new Vector2(thickness, 1f), // Left
-                new Vector2(thickness, 1f)  // Right
+                new Vector2(borderMultiplier, thickness), // bottom
+                new Vector2(borderMultiplier, thickness), // top
+                new Vector2(thickness, 1f), // left
+                new Vector2(thickness, 1f)  // right
             };
 
             for (int i = 0; i < borderParts.Length; i++)
