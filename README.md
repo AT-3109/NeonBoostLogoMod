@@ -1,4 +1,4 @@
-# Enhanced Timer
+# Logo Mod
 
 A simple mod that displays a logo/watermark on the screen of your choice. Can be configured to use a `.png` file or your Steam Avatar (default).
 Customizable properties: position, spacing, scale, opacity, border thickness, border color (HEX color code).
